@@ -29,7 +29,7 @@ Add instagram featured image in your sidebar easily, responsive and hover animat
 
 ### Rate The Plugin
 
-* [Please rate Featured Image Widget plugin](https://wordpress.org/support/view/plugin-reviews/instagram-featured-image#postform)
+* [Please rate Instagram Featured Image plugin](https://wordpress.org/support/view/plugin-reviews/instagram-featured-image#postform)
 
 ### Beautiful WordPress Themes
 
