@@ -4,7 +4,7 @@ Donate link: http://j.mp/plugins_donation
 Tags: image widget, responsive, responsive widget, responsive image, featured, featured image, featured image widget, featured widget, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, instagram, instagram image, instagram widget
 Requires at least: 2.8
 Tested up to: 4.1.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,6 +71,9 @@ Add instagram featured image in your sidebar easily, responsive and hover animat
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.0.1 =
+WP Time Support.
 
 = 1.0.0 =
 First version.
