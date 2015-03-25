@@ -67,7 +67,7 @@ Add instagram featured image in your sidebar easily, responsive and hover animat
 
 ### FAQ
 
-* [For more questions or help, contact me.](http://qass.im/contact)
+* [For more questions or help, contact me.](http://wp-time.com/contact/)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
