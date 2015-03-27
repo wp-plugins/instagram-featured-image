@@ -1,6 +1,6 @@
 ﻿=== Instagram Featured Image ===
 Contributors: Qassim.Dev
-Donate link: http://j.mp/plugins_donation
+Donate link: http://j.mp/WPTime_donations
 Tags: image widget, responsive, responsive widget, responsive image, featured, featured image, featured image widget, featured widget, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, instagram, instagram image, instagram widget
 Requires at least: 2.8
 Tested up to: 4.1.1
