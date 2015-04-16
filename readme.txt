@@ -12,7 +12,7 @@ Add instagram featured image in your sidebar easily, responsive and hover animat
 
 == Description ==
 
-### Instagram Featured Image                  
+### Instagram Featured Image                   
 
 Add instagram featured image in your sidebar easily, responsive and hover animation.
 
