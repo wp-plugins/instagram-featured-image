@@ -34,6 +34,7 @@ Add instagram featured image in your sidebar easily, responsive and hover animat
 ### See Also
 
 * [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
+* [Get 50% discount for premium WordPress themes or plugins.](http://wp-time.com/get-50-discount-for-any-wordpress-themes-or-plugins/)
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
