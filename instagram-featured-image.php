@@ -3,7 +3,7 @@
 Plugin Name: Instagram Featured Image
 Plugin URI: http://wp-time.com/instagram-featured-image/
 Description: Add instagram featured image in your sidebar easily, responsive and hover animation.
-Version: 1.2
+Version: 1.3
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later

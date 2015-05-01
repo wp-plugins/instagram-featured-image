@@ -3,8 +3,8 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
 Tags: image widget, responsive, responsive widget, responsive image, featured, featured image, featured image widget, featured widget, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, instagram, instagram image, instagram widget
 Requires at least: 2.8
-Tested up to: 4.2
-Stable tag: 1.2
+Tested up to: 4.2.1
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,7 @@ Add instagram featured image in your sidebar easily, responsive and hover animat
 
 ### See Also
 
+* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
 * [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
 * [Get 50% discount for premium WordPress themes or plugins.](http://wp-time.com/get-50-discount-for-any-wordpress-themes-or-plugins/)
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
@@ -67,6 +68,9 @@ Add instagram featured image in your sidebar easily, responsive and hover animat
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.3 =
+* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
 
 = 1.2 =
 Fixing some problems.
